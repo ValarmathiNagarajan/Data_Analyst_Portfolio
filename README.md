@@ -8,5 +8,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ### 2. Guessing Number Game
 
 ## Project 1: Choices of Cities To Live and Work
+#### This project is to analyse and find out which city is more affordable based on different criteria such as rent, size, parking space, etc.
 
 ## Project 2: Churn analysis to find the patterns in the customers who are leaving the bank and to retain the existing customers.
+#### This project is to analyse which category of customers leaving the bank more and why.
